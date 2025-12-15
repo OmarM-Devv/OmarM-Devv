@@ -13,7 +13,7 @@ I am currently an Engineering Apprentice. While I work in physical engineering, 
   - **Online Resources:** activley using resources such as code-academy and youtube to upskill myself further
 
 - ⚡ **Why DevOps?**
-  I realized that "modding" games is actually just managing dependencies and editing config files. I want to take that hobbyist curiosity and apply it to professional enterprise software.
+  I discovered that the troubleshooting I do for fun is actually 'Configuration Management' on a smaller scale. Realizing that I was already managing dependencies and config files in my spare time confirmed my desire to pivot into a professional DevOps role.
 
 ---
 *I am actively looking for a Level 4 DevOps Apprenticeship to formalize this self-study.*

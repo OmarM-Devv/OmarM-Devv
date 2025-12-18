@@ -12,7 +12,7 @@ I am currently an Engineering Apprentice. While I work in physical engineering, 
   - **Linux:** Learning the command line and basic fundementals
   - **Online Resources:** activley using resources such as code-academy and youtube to upskill myself further
 
-- ⚡ **Why DevOps?**
+-  **Why DevOps?**
   I discovered that the troubleshooting I do for fun is actually 'Configuration Management' on a smaller scale. Realizing that I was already managing dependencies and config files in my spare time confirmed my desire to pivot into a professional DevOps role.
 
 ---

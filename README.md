@@ -16,4 +16,4 @@ I am currently an Engineering Apprentice. While I work in physical engineering, 
   I discovered that the troubleshooting I do for fun is actually 'Configuration Management' on a smaller scale. Realizing that I was already managing dependencies and config files in my spare time confirmed my desire to pivot into a professional DevOps role.
 
 ---
-*I am actively looking for a Level 4-6 IT Apprenticeship to formalize this self-study.*
+*I am actively looking for a Level 3-6 IT Apprenticeship to formalize this self-study.*

@@ -2,7 +2,7 @@
 
 **Apprentice (Engineering) pivoting to IT.**
 
-I am currently an Engineering Apprentice. While I work in physical engineering, I have realized my true passion is in software infrastructure. I am now self-studying to transition into a dedicated IT Apprenticeship.
+I am currently an Engineering Apprentice. While I work in construction engineering, I have realized my true passion is in software infrastructure. I am now self-studying to transition into a dedicated IT Apprenticeship.
 
 -  **My Goal:** To translate my problem-solving skills from Engineering into **Software** and **Automation**.
 

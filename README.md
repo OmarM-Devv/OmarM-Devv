@@ -24,7 +24,7 @@ Notes on managing configuration files, dependencies and folder structures while 
 
 ### [Linux SSH service verification lab](https://github.com/OmarM-Devv/linux-ssh-verification-lab)
 
-A small Linux and networking self-study lab completed on 5 September 2026 using Kali and Ubuntu VMs in VirtualBox. I:
+A small Linux and networking self-study lab using Kali and Ubuntu VMs in VirtualBox. I:
 
 - Connected the VMs through a shared host-only network and checked the connection with `ping`.
 - Scanned Ubuntu from Kali using Nmap, then installed an SSH server and checked that port 22 was open.

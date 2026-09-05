@@ -22,6 +22,10 @@ The repository includes setup instructions, example output and screenshots of su
 
 Documentation of configuration management and asset mapping through video game modification, including working with configuration files, dependencies and folder structures.
 
+### Kali Linux and AWS projects
+
+I've also completed projects using Kali Linux and AWS. Project write-ups and supporting evidence will be added to GitHub soon.
+
 ## What I'm learning
 
 - **Python and pandas:** understanding functions, data cleaning, reshaping and validation, and practising explaining my code.

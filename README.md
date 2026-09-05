@@ -1,26 +1,37 @@
-### Hi there, I'm Omar 👋
+# Hi, I'm Omar 👋
 
-**Former Apprentice (Engineering) pivoting to IT.**
+**Former engineering apprentice working towards an IT apprenticeship.**
 
-I come from a construction engineering background, where I discovered my real passion is software infrastructure. I'm now self-studying to move into a dedicated IT Apprenticeship.
+I come from a construction engineering background and am building my Python, Linux and Git skills through practical projects. I'm interested in software infrastructure and automation, and want to bring my troubleshooting experience into an IT role.
 
-- **My Goal:** To translate my problem-solving skills from Engineering into **Software** and **Automation**.
+## Projects
 
-- **Current Learning Projects:**
-  - **Python:** Refreshing my knowledge of core syntax (Loops, Variables, Functions).
-  - **Home Lab:** I use video game modification as a sandbox to understand **Configuration Management** and **File Structures**. You can view my documentation here: [Configuration-Management](https://github.com/OmarM-Devv/Configuration-Management).
-  - **Linux:** Learning the command line and basic fundamentals.
-  - **Online Resources:** Actively using resources such as Codecademy and YouTube to upskill myself further.
+### [Rail station usage data pipeline](https://github.com/OmarM-Devv/rail-data-pipeline)
 
-- **Tools & Technologies:**
+A completed Python portfolio project using Office of Rail and Road station-usage data. The pipeline:
 
-  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-  ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+- Downloads a CSV and keeps the downloaded data unchanged in a separate raw file.
+- Cleans the data with pandas and preserves missing measurements.
+- Reshapes ticket-type columns into rows for easier comparisons.
+- Validates the data and saves two processed CSVs.
+- Stops with an error when a validation check fails.
 
-- **Why IT?**
-  I discovered that the troubleshooting I do for fun is actually **Configuration Management** on a smaller scale. Realising that I was already managing dependencies and config files in my spare time confirmed my desire to pivot into a professional DevOps role.
+The repository includes setup instructions, example output and screenshots of successful and deliberately failing runs. I added ticket-type reshaping after completing the initial cleaning and validation work.
+
+### [Configuration management](https://github.com/OmarM-Devv/Configuration-Management)
+
+Documentation of configuration management and asset mapping through video game modification, including working with configuration files, dependencies and folder structures.
+
+## What I'm learning
+
+- **Python and pandas:** understanding functions, data cleaning, reshaping and validation, and practising explaining my code.
+- **Git and GitHub:** tracking changes, writing clear commits and documenting projects.
+- **Linux:** practising command-line basics.
+
+## Tools I use
+
+Python · pandas · Git · GitHub · VS Code · PowerShell
 
 ---
-*I am actively looking for a Level 3–6 IT Apprenticeship to formalise this self-study.*
+
+I'm looking for a Level 3–6 IT apprenticeship where I can develop these foundations through practical work and structured training.

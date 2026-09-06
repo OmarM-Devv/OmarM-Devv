@@ -2,9 +2,9 @@
 
 **Former engineering apprentice working towards an IT apprenticeship.**
 
-I come from a construction engineering background and am building my Python, Linux and Git skills through practical projects. I'm interested in software infrastructure and automation, and want to bring my troubleshooting experience into an IT role.
+I come from a construction engineering background and am building my Python, Linux, AWS and Git skills through practical projects and self-study labs. I'm interested in software infrastructure and automation, and want to bring my troubleshooting experience into an IT role.
 
-## Projects
+## Selected projects
 
 ### [Rail station usage data pipeline](https://github.com/OmarM-Devv/rail-data-pipeline)
 
@@ -18,9 +18,17 @@ A Python project using Office of Rail and Road station-usage data. The pipeline:
 
 The repository includes setup instructions, example output and screenshots of successful and deliberately failing runs. I added ticket-type reshaping after completing the initial cleaning and validation work.
 
-### [Configuration management](https://github.com/OmarM-Devv/Configuration-Management)
+### [AWS EC2 Ubuntu Web Server Lab](https://github.com/OmarM-Devv/aws-ec2-ubuntu-web-server-lab)
 
-Notes on managing configuration files, dependencies and folder structures while modifying video games, including mapping the game assets used.
+A personal cloud/Linux self-study lab using an Ubuntu EC2 instance in AWS's London region. I:
+
+- Restricted SSH to my own IP and allowed HTTP for the temporary public web-server exercise.
+- Diagnosed an SSH private-key permissions error on Windows and corrected the file's ACLs with `icacls`.
+- Connected from PowerShell, installed Apache and managed the service with `systemctl`.
+- Verified Apache's running state, tested HTTP locally with `curl` and loaded the Apache2 Default Page in my Windows browser.
+- Terminated the instance and deleted the lab key pair and security group after testing.
+
+The repository documents the setup, troubleshooting and three levels of verification, with cropped screenshots. The exercise tested Apache's default page.
 
 ### [Linux SSH service verification lab](https://github.com/OmarM-Devv/linux-ssh-verification-lab)
 
@@ -32,15 +40,16 @@ A small Linux and networking self-study lab using Kali and Ubuntu VMs in Virtual
 
 The main lesson was that an open port is not automatically a vulnerability. I needed to understand the service and check that my change worked. The repository includes the commands, results and three original screenshot crops.
 
-### AWS projects
+### [Configuration management](https://github.com/OmarM-Devv/Configuration-Management)
 
-I've also completed projects using AWS. Write-ups and supporting evidence will be added to GitHub soon.
+Notes on managing configuration files, dependencies and folder structures while modifying video games, including mapping the game assets used.
 
 ## What I'm learning
 
 - **Python and pandas:** understanding functions, data cleaning, reshaping and validation, and practising explaining my code.
 - **Git and GitHub:** tracking changes, writing clear commits and documenting projects.
 - **Linux:** practising commands, checking network connections and managing services.
+- **AWS:** understanding EC2 instances, security-group access rules, SSH administration and cleaning up temporary resources.
 
 ## Tools I use
 

@@ -71,7 +71,7 @@ flowchart LR
 
 [![CI/CD](https://github.com/OmarM-Devv/rail-data-pipeline-api/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/OmarM-Devv/rail-data-pipeline-api/actions/workflows/deploy.yml)
 
-**In short:** I took the Office of Rail and Road's station usage figures (April 2024 to March 2025), cleaned and checked them, and built an API that answers questions such as "which are the busiest stations?". It runs on an AWS server, and GitHub deploys every change to it automatically.
+**In short:** I took the Office of Rail and Road's station usage figures (April 2024 to March 2025), cleaned and checked them, and deployed an API that answers questions such as "which are the busiest stations?". It runs on an AWS server, and GitHub deploys every change to it automatically.
 
 **Live demo:** [health check](http://16.61.66.47:8000/health) · [API docs](http://16.61.66.47:8000/docs). This demo may be switched off to save costs; the repository keeps screenshots of it running.
 

@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Self-taught engineer building data pipelines, APIs and cloud deployments</strong><br>
-  London, UK · Applying for <strong>software engineering</strong>, <strong>data engineering</strong> and <strong>DevOps</strong> apprenticeships
+  London, UK · Applying for <strong>apprenticeships</strong> and <strong>entry-level technology roles</strong>
 </p>
 
 <p align="center">
@@ -149,7 +149,8 @@ flowchart LR
 | 20/06/2026 – 07/09/2026 | **Built my first project in a private repository**, a rail station usage pipeline in Python and pandas, over about 11 weeks. I **published it once it was working**: [rail-data-pipeline](https://github.com/OmarM-Devv/rail-data-pipeline) |
 | 05/09/2026 | **[Linux SSH lab](https://github.com/OmarM-Devv/linux-ssh-verification-lab):** VirtualBox, Kali, Ubuntu, Nmap and systemctl |
 | 06/09/2026 | **[AWS EC2 web server lab](https://github.com/OmarM-Devv/aws-ec2-ubuntu-web-server-lab):** SSH, Apache, security groups and clean-up |
-| 28/09/2026 | **Published my two main projects**, [MatchLens](https://github.com/OmarM-Devv/matchlens-analysis) and [Rail data pipeline and API](https://github.com/OmarM-Devv/rail-data-pipeline-api), with design records and screenshots of both running |
+| 09/2026 | **Built MatchLens, and the rail project's API and tests, locally** over about four weeks |
+| 28/09/2026 | **Published my two main projects**, [MatchLens](https://github.com/OmarM-Devv/matchlens-analysis) and [Rail data pipeline and API](https://github.com/OmarM-Devv/rail-data-pipeline-api), and **deployed the rail API to AWS**. The first deploy failed because the AWS trust policy didn't match GitHub's login token; I diagnosed it, updated the policy and redeployed the same evening |
 
 ## 📚 Currently learning
 

@@ -146,7 +146,8 @@ flowchart LR
 
 | Date | Milestone |
 |---|---|
-| 20/06/2026 – 07/09/2026 | **Built my first project in a private repository**, a rail station usage pipeline in Python and pandas, over about 11 weeks. I **published it once it was working**: [rail-data-pipeline](https://github.com/OmarM-Devv/rail-data-pipeline) |
+| 15/12/2025 | **[Configuration management notes](https://github.com/OmarM-Devv/Configuration-Management):** my first repository. I edited XML configuration files to map image files to database IDs and correct data, and learned how configuration drives software |
+| 20/06/2026 – 07/09/2026 | **Built my first coding project in a private repository**, a rail station usage pipeline in Python and pandas, over about 11 weeks. I **published it once it was working**: [rail-data-pipeline](https://github.com/OmarM-Devv/rail-data-pipeline) |
 | 05/09/2026 | **[Linux SSH lab](https://github.com/OmarM-Devv/linux-ssh-verification-lab):** VirtualBox, Kali, Ubuntu, Nmap and systemctl |
 | 06/09/2026 | **[AWS EC2 web server lab](https://github.com/OmarM-Devv/aws-ec2-ubuntu-web-server-lab):** SSH, Apache, security groups and clean-up |
 | 09/2026 | **Built MatchLens, and the rail project's API and tests, locally** over about four weeks |

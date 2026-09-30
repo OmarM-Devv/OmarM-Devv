@@ -14,7 +14,7 @@
 
 ## 👤 About me
 
-- **Background:** 19 months as a **building services engineering apprentice** before moving into tech.
+- **Background:** 19 months as a **design engineering apprentice** before moving into tech.
 - **Self-study:** I started learning **computer science fundamentals in December 2025**, alongside that apprenticeship, and have been **building projects since June 2026**.
 - **What I've built:** **two complete projects** that take real public data, check it, store it and make it available through a web API. One of them **runs on Amazon Web Services (AWS)** and **deploys itself automatically** every time I push a change.
 - **How I work:** every change is **checked by automated tests**, I **write down the main decisions and why I made them**, and I keep **screenshots as evidence** that each system works.

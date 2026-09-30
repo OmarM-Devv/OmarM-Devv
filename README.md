@@ -19,7 +19,7 @@
 - **What I've built:** **two complete projects** that take real public data, check it, store it and make it available through a web API. One of them **runs on Amazon Web Services (AWS)** and **deploys itself automatically** every time I push a change.
 - **How I work:** every change is **checked by automated tests**, I **write down the main decisions and why I made them**, and I keep **screenshots as evidence** that each system works.
 
-**Start here:** [MatchLens](https://github.com/OmarM-Devv/matchlens-analysis) for data and software engineering, then [Rail data pipeline and API](https://github.com/OmarM-Devv/rail-data-pipeline-api) for DevOps.
+**Start here:** [MatchLens](https://github.com/OmarM-Devv/matchlens-analysis) for a smart data-matching system, then [Rail data pipeline and API](https://github.com/OmarM-Devv/rail-data-pipeline-api) a cloud-connected transit pipeline and API.
 
 ---
 

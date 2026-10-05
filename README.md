@@ -14,9 +14,9 @@
 
 ## 👤 About me
 
-- **Background:** 19 months as a **design engineering apprentice** before moving into tech.
-- **Self-study:** I started learning **computer science fundamentals in December 2025**, alongside that apprenticeship, and have been **building projects since June 2026**.
-- **What I've built:** **two complete projects** that take real public data, check it, store it and make it available through a web API. One of them **was deployed to Amazon Web Services (AWS)** and **redeploys automatically** every time I push a change.
+- **Background:** 19 months as a **design engineer** before moving into tech.
+- **Self-study:** I started learning **computer science fundamentals in December 2025**, alongside that role, and have been **building projects since June 2026**.
+- **What I've built:** **five complete projects** that take real public data, check it, store it and make it available through a web API. One of them **was deployed to Amazon Web Services (AWS)** and **redeploys automatically** every time I push a change.
 - **How I work:** every change is **checked by automated tests**, I **write down the main decisions and why I made them**, and I keep **screenshots as evidence** that each system works.
 
 **Start here:** [MatchLens](https://github.com/OmarM-Devv/matchlens-analysis) for a football data engine, then [Rail data pipeline and API](https://github.com/OmarM-Devv/rail-data-pipeline-api) for an API serving official station usage data, deployed to AWS.

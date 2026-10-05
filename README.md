@@ -16,10 +16,10 @@
 
 - **Background:** 19 months as a **design engineering apprentice** before moving into tech.
 - **Self-study:** I started learning **computer science fundamentals in December 2025**, alongside that apprenticeship, and have been **building projects since June 2026**.
-- **What I've built:** **two complete projects** that take real public data, check it, store it and make it available through a web API. One of them **runs on Amazon Web Services (AWS)** and **deploys itself automatically** every time I push a change.
+- **What I've built:** **two complete projects** that take real public data, check it, store it and make it available through a web API. One of them **was deployed to Amazon Web Services (AWS)** and **redeploys automatically** every time I push a change.
 - **How I work:** every change is **checked by automated tests**, I **write down the main decisions and why I made them**, and I keep **screenshots as evidence** that each system works.
 
-**Start here:** [MatchLens](https://github.com/OmarM-Devv/matchlens-analysis) for a football data engine, then [Rail data pipeline and API](https://github.com/OmarM-Devv/rail-data-pipeline-api) a cloud environment for real-time travel streams.
+**Start here:** [MatchLens](https://github.com/OmarM-Devv/matchlens-analysis) for a football data engine, then [Rail data pipeline and API](https://github.com/OmarM-Devv/rail-data-pipeline-api) for an API serving official station usage data, deployed to AWS.
 
 ---
 
@@ -28,7 +28,7 @@
 | Project | What it is, in plain English | Main skills |
 |---|---|---|
 | **[MatchLens](https://github.com/OmarM-Devv/matchlens-analysis)** | Loads all **1,042 shots** from Leicester City's **38 matches** in their 2015/16 title-winning season into a database, and turns them into match reports and form tables | **SQL**, PostgreSQL, Python, FastAPI, Docker, automated tests |
-| **[Rail data pipeline and API](https://github.com/OmarM-Devv/rail-data-pipeline-api)** | Cleans official figures on how many people use each of Great Britain's **2,589 railway stations**, and serves them online from **AWS**, redeploying itself on every change | Python, pandas, **AWS**, **Terraform**, Docker, **CI/CD** |
+| **[Rail data pipeline and API](https://github.com/OmarM-Devv/rail-data-pipeline-api)** | Cleans official figures on how many people use each of Great Britain's **2,589 railway stations**, and serves them through an API deployed to **AWS**, redeploying on every change | Python, pandas, **AWS**, **Terraform**, Docker, **CI/CD** |
 | **[Rail station usage pipeline](https://github.com/OmarM-Devv/rail-data-pipeline)** | The first version of the rail project: downloads, cleans and checks the data | Python, pandas, data cleaning |
 | **[AWS EC2 web server lab](https://github.com/OmarM-Devv/aws-ec2-ubuntu-web-server-lab)** | Set up a Linux web server in the cloud, locked down who could reach it, tested it and removed it afterwards | AWS, Linux, SSH, networking |
 | **[Linux SSH lab](https://github.com/OmarM-Devv/linux-ssh-verification-lab)** | Connected two virtual machines, switched a remote-login service on and off, and checked it from the other machine | Linux, networking, Nmap |
@@ -71,11 +71,11 @@ flowchart LR
 
 [![CI/CD](https://github.com/OmarM-Devv/rail-data-pipeline-api/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/OmarM-Devv/rail-data-pipeline-api/actions/workflows/deploy.yml)
 
-**In short:** I took the Office of Rail and Road's station usage figures (April 2024 to March 2025), cleaned and checked them, and deployed an API that answers questions such as "which are the busiest stations?". It runs on an AWS server, and GitHub deploys every change to it automatically.
+**In short:** I took the Office of Rail and Road's station usage figures (April 2024 to March 2025), cleaned and checked them, and deployed an API that answers questions such as "which are the busiest stations?". I deployed it to an AWS server on 28/09/2026, and GitHub deploys every change to it automatically.
 
 **Live demo:** [health check](http://16.61.66.47:8000/health) · [API docs](http://16.61.66.47:8000/docs). This demo may be switched off to save costs; the repository keeps screenshots of it running.
 
-- **Runs in the cloud:** the server and everything around it are **defined in code with Terraform**, so the whole setup can be rebuilt the same way every time.
+- **Defined in code:** the server and everything around it are **defined in code with Terraform**, so the whole setup can be rebuilt the same way every time.
 - **Deploys itself safely:** every change is **tested, packaged and deployed automatically**. If the new version fails its health check, it **rolls back to the previous one**.
 - **No stored passwords:** GitHub gets **short-lived AWS access** for each deploy, so **no AWS keys are kept** in the repository.
 

@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Self-taught engineer building data pipelines, APIs and cloud deployments</strong><br>
-  London, UK · Seeking <strong>entry-level technology roles</strong>
+  London, UK · Seeking <strong> technology apprenticeships</strong>
 </p>
 
 <p align="center">
